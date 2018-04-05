@@ -1,15 +1,15 @@
 # letsparty
 
-##Let’s Party - Aplicativo de gerenciamento de eventos
+#Let’s Party - Aplicativo de gerenciamento de eventos
 
-##1- Motivação:
+#1- Motivação:
 
 A falta de comunicação entre as pessoas faz com que o interesse na realização
 de festas não corresponda de fato ao acontecimento das mesmas. Cria-se dessa
 forma a necessidade da existência de um mecanismo que ajude os usuários no
 processo de organização desses eventos.
 
-##2 - Funcionamento:
+#2 - Funcionamento:
 
 Auxiliar na realização,organização, gerenciamento, divulgação e participação
 em eventos de entretenimento criados pelos usuários.
@@ -27,11 +27,11 @@ usuário.
 meta.
 10 - Saída de um evento - O usuário encerra sua participação em uma festa.
 
-##4 - Tecnologias Utilizadas:
+#4 - Tecnologias Utilizadas:
 Será utilizado para programação do aplicativo android o software Android
 Studio que possui linguagem de programação JAVA.
 
-##5 - Plataforma:
+#5 - Plataforma:
 
 Android
 
