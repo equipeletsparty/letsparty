@@ -1,4 +1,4 @@
-# letsparty
+# Let's Party
 
 ## Let’s Party - Aplicativo de gerenciamento de eventos
 
