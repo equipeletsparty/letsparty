@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/equipeletsparty/letsparty" target="_blank" >
-    <img alt="Let's Party" src="https://imageshack.com/a/img922/7909/bVv733.jpg" width="200" />
+    <img alt="Let's Party" src="https://imageshack.com/a/img922/7909/bVv733.jpg" width="300" />
   </a>
 </p>
 
