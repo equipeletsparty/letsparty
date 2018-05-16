@@ -4,7 +4,12 @@
   </a>
 </p>
 
-## Let’s Party - Aplicativo de gerenciamento de eventos
+<p align="center">
+  <a href="https://github.com/equipeletsparty/letsparty" target="_blank" >
+    <img alt="Crie, participe, torne possível!" src="https://github.com/equipeletsparty/letsparty/blob/master/Prot%C3%B3tipos%20de%20Tela/Logotipo.jpg?raw=true" width="300" />
+  </a>
+</p>
+<p align="center">## Let’s Party - Aplicativo de gerenciamento de eventos
 
 ## 1- Motivação:
 
