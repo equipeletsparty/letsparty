@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/equipeletsparty/letsparty" target="_blank" >
-    <img alt="Let's Party" src="https://imageshack.com/a/img922/7909/bVv733.jpg" width="300" />
+    <img alt="Crie, participe, torne possível!" src="https://github.com/equipeletsparty/letsparty/blob/master/Prot%C3%B3tipos%20de%20Tela/Let's%20Party.png?raw=true" width="300" />
   </a>
 </p>
 
